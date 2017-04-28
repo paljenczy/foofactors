@@ -13,3 +13,5 @@ Suggests: testthat,
     rmarkdown
 Imports: dplyr
 VignetteBuilder: knitr
+URL: https://github.com/paljenczy/foofactors
+BugReports: https://github.com/paljenczy/foofactors/issues
