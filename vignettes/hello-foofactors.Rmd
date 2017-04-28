@@ -1,13 +1,20 @@
 ---
-title: "Vignette Title"
-author: "Vignette Author"
+title: "Forcats first steps"
+author: "Jeno Pal"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteIndexEntry{Forcats first steps}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
+Here is a first example for usage of `fbind`:
+
+```{r}
+library(foofactors)
+fbind(c(1, 2), c(2, 3))
+```
+
 
 Vignettes are long form documentation commonly included in packages. Because they are part of the distribution of the package, they need to be as compact as possible. The `html_vignette` output type provides a custom style sheet (and tweaks some options) to ensure that the resulting html is as small as possible. The `html_vignette` format:
 
