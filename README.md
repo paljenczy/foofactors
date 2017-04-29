@@ -1,19 +1,3 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
-
-# The foofactors package
-
 [![Build Status](https://travis-ci.org/paljenczy/foofactors.svg?branch=master)](https://travis-ci.org/paljenczy/foofactors)
-
-
-
