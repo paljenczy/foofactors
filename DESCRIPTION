@@ -11,7 +11,8 @@ RoxygenNote: 6.0.1
 Suggests: testthat,
     knitr,
     rmarkdown
-Imports: dplyr
+Imports: dplyr,
+    drat
 VignetteBuilder: knitr
 URL: https://github.com/paljenczy/foofactors
 BugReports: https://github.com/paljenczy/foofactors/issues
