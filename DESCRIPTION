@@ -1,6 +1,6 @@
 Package: foofactors
 Title: Make Factors Less Annoying
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: person("Jeno", "Pal", email = "paljenczy@gmail.com", role = c("aut", "cre"))
 Description: The package makes working with factors easy.
 Depends: R (>= 3.3.3)
