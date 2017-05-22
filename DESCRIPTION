@@ -16,3 +16,4 @@ Imports: magrittr,
 VignetteBuilder: knitr
 URL: https://github.com/paljenczy/foofactors
 BugReports: https://github.com/paljenczy/foofactors/issues
+Repository: emarsys-drat
